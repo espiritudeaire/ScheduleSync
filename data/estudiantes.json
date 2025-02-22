@@ -1,0 +1,56 @@
+[
+    {
+        "id": 201,
+        "nombre": "Ana López",
+        "telefono": "987654321",
+        "id_academia": 1
+    },
+    {
+        "id": 202,
+        "nombre": "Juan Martínez",
+        "telefono": "123456789",
+        "id_academia": 1
+    },
+    {
+        "id": 203,
+        "nombre": "María González",
+        "telefono": "567890123",
+        "id_academia": 1
+    },
+    {
+        "id": 204,
+        "nombre": "Pedro Ramírez",
+        "telefono": "789012345",
+        "id_academia": 2
+    },
+    {
+        "id": 205,
+        "nombre": "Lucía Fernández",
+        "telefono": "234567890",
+        "id_academia": 2
+    },
+    {
+        "id": 206,
+        "nombre": "Carlos Pérez",
+        "telefono": "345678901",
+        "id_academia": 3
+    },
+    {
+        "id": 207,
+        "nombre": "Sofía Gómez",
+        "telefono": "456789012",
+        "id_academia": 3
+    },
+    {
+        "id": 208,
+        "nombre": "Miguel Torres",
+        "telefono": "567890123",
+        "id_academia": 4
+    },
+    {
+        "id": 209,
+        "nombre": "Elena Ruiz",
+        "telefono": "678901234",
+        "id_academia": 4
+    }
+]

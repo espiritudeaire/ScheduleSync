@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Perez",
+        "materia": "Dibujo",
+        "email": "juan.perez@example.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Maria Lopez",
+        "materia": "Violín",
+        "email": "maria.lopez@example.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Sanchez",
+        "materia": "Piano",
+        "email": "carlos.sanchez@example.com"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Martinez",
+        "materia": "Piano",
+        "email": "ana.martinez@example.com"
+    }
+]

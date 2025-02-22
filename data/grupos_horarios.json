@@ -1,0 +1,104 @@
+[
+    {
+        "id": 301,
+        "dia": "Lunes",
+        "horarios": [
+            {
+                "id_horario": 1,
+                "horaInicio": "15:00",
+                "horaFin": "16:00",
+                "academia_id": 1,
+                "estudiantes": [
+                    201,
+                    202,
+                    203,
+                    204
+                ]
+            },
+            {
+                "id_horario": 2,
+                "horaInicio": "16:30",
+                "horaFin": "17:30",
+                "academia_id": 1,
+                "estudiantes": [
+                    203,
+                    204
+                ]
+            }
+        ]
+    },
+    {
+        "id": 302,
+        "dia": "Miércoles",
+        "horarios": [
+            {
+                "id_horario": 3,
+                "horaInicio": "16:00",
+                "horaFin": "17:00",
+                "academia_id": 2,
+                "estudiantes": [
+                    201
+                ]
+            },
+            {
+                "id_horario": 4,
+                "horaInicio": "08:30",
+                "horaFin": "09:30",
+                "academia_id": 2,
+                "estudiantes": [
+                    202
+                ]
+            }
+        ]
+    },
+    {
+        "id": 303,
+        "dia": "Viernes",
+        "horarios": [
+            {
+                "id_horario": 4,
+                "horaInicio": "10:00",
+                "horaFin": "11:00",
+                "academia_id": 3,
+                "estudiantes": [
+                    206,
+                    207
+                ]
+            },
+            {
+                "id_horario": 5,
+                "horaInicio": "11:30",
+                "horaFin": "12:30",
+                "academia_id": 3,
+                "estudiantes": [
+                    206
+                ]
+            }
+        ]
+    },
+    {
+        "id": 304,
+        "dia": "Sábado",
+        "horarios": [
+            {
+                "id_horario": 6,
+                "horaInicio": "09:00",
+                "horaFin": "10:00",
+                "academia_id": 4,
+                "estudiantes": [
+                    208,
+                    209
+                ]
+            },
+            {
+                "id_horario": 7,
+                "horaInicio": "10:30",
+                "horaFin": "11:30",
+                "academia_id": 4,
+                "estudiantes": [
+                    208
+                ]
+            }
+        ]
+    }
+]
